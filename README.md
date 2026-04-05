@@ -1,2 +1,1 @@
 # VeilAlert
-Hackathon project
